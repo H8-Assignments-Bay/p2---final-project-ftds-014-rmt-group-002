@@ -21,9 +21,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-<!--   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="media/logo_round.png" alt="Logo" width="180" height="180">
-  </a> -->
+  <a>
+    <img src="https://customer-segmentation-uk.herokuapp.com:443/media/cee1839f9b0e462cb7913196af8ea3073655279be136a018fc98c7f2.png" alt="Logo" width="500" height="500">
+  </a>
 
   <h3 align="center">Elevating sales performance</h3>
   <h3 align="center">through predictive customer segmentation</h3>
