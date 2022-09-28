@@ -42,12 +42,17 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-
 From a marketing perspective, it makes perfect sense to put in the effort to understand the characteristics and preferences of your best customers and keep sustaining your business. In this project, we predict customer segmentation and its actionable insight to push your marketing personalized programs at their best for the customer and boost your sales performance (with RFM Analysis). We are using the dataset from [kaggle](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci?select=online_retail_II.csv)
 
+### Deployment app
 Please feel free to visit our deployment app [here](https://customer-segmentation-uk.herokuapp.com)
 
-Learn more about the work from our Slideshow [here](https://drive.google.com/file/d/1sasDO0gU-1r9UBoD21C7sVkNZnw9wAPY/view?usp=sharing)
+![tutorial gif](https://github.com/H8-Assignments-Bay/p2---final-project-ftds-014-rmt-group-002/blob/d6a0c3c0f8dbc3523d4fcecce5f82c6134dffda1/Experimental_Features_Media/app_spoiler.gif)
+
+### Project slideshow [here](https://drive.google.com/file/d/1sasDO0gU-1r9UBoD21C7sVkNZnw9wAPY/view?usp=sharing)
+
+![tutorial gif](https://github.com/H8-Assignments-Bay/p2---final-project-ftds-014-rmt-group-002/blob/d6a0c3c0f8dbc3523d4fcecce5f82c6134dffda1/Experimental_Features_Media/slideshow_spoiler.gif)
+
 
 6 Customer Segmentation were created during our project, and each segment was highly correlated with RFM ideal segmentation (Success: Champions, Potential Loyalists, About to Sleep, At Risk, Hibernating, and Lost Customer). We learned that based on our reference (Pareto Principle), our Customer Segmentation model could help business improve their M/S by up to 16%.
 
@@ -59,14 +64,11 @@ This project was built using
 * [Scikit-Learn](https://scikit-learn.org/stable/)
 * [Flask](https://flask.palletsprojects.com/en/2.2.x/)
 * [Streamlit](https://streamlit.io/)
-* [Heroku](ttps://www.heroku.com/)
 
-<!-- ## Thanks to
+## Our utmost gratitude
 
-* [wildoctopus](https://github.com/wildoctopus) for sharing the Materials
-
-* [Mas Afif](https://github.com/afifai) for the tutorial
-
-* [Danu Purnomo](https://github.com/danupurnomo) as a Mentor -->
+* kang Irfan Elite Global & Kang Danu as our Mentor
+* Ka Dian & Kang Fahmi Imam for all your technical support
+* All Hactive8 Awesome Instructor
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
