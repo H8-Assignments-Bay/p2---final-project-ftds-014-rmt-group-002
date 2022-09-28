@@ -49,7 +49,8 @@ Please feel free to visit our deployment app [here](https://customer-segmentatio
 
 ![tutorial gif](https://github.com/H8-Assignments-Bay/p2---final-project-ftds-014-rmt-group-002/blob/d6a0c3c0f8dbc3523d4fcecce5f82c6134dffda1/Experimental_Features_Media/app_spoiler.gif)
 
-### Project slideshow [here](https://drive.google.com/file/d/1sasDO0gU-1r9UBoD21C7sVkNZnw9wAPY/view?usp=sharing)
+### Project slideshow
+Learn more about our project [here](https://drive.google.com/file/d/1sasDO0gU-1r9UBoD21C7sVkNZnw9wAPY/view?usp=sharing)
 
 ![tutorial gif](https://github.com/H8-Assignments-Bay/p2---final-project-ftds-014-rmt-group-002/blob/d6a0c3c0f8dbc3523d4fcecce5f82c6134dffda1/Experimental_Features_Media/slideshow_spoiler.gif)
 
