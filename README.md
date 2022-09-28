@@ -22,11 +22,11 @@
 <br />
 <div align="center">
   <a>
-    <img src="https://customer-segmentation-uk.herokuapp.com:443/media/cee1839f9b0e462cb7913196af8ea3073655279be136a018fc98c7f2.png" alt="Logo" width="500" height="500">
+    <img src="https://customer-segmentation-uk.herokuapp.com:443/media/cee1839f9b0e462cb7913196af8ea3073655279be136a018fc98c7f2.png" alt="Logo" width="800" height="450">
   </a>
 
-  <h3 align="center">Elevating sales performance</h3>
-  <h3 align="center">through predictive customer segmentation</h3>
+  <h2 align="center">Elevating sales performance</h2>
+  <h4 align="center">through predictive customer segmentation</h4>
 
   <p align="center">
     <strong>Created By (Github link)</strong>
