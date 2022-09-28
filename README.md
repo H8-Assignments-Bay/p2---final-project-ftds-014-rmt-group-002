@@ -21,11 +21,12 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+<!--   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="media/logo_round.png" alt="Logo" width="180" height="180">
-  </a>
+  </a> -->
 
-  <h3 align="center">Elevating sales performance through predictive customer segmentation</h3>
+  <h3 align="center">Elevating sales performance</h3>
+  <h3 align="center">through predictive customer segmentation</h3>
 
   <p align="center">
     <strong>Created By (Github link)</strong>
@@ -58,6 +59,14 @@ This project was built using
 * [Scikit-Learn](https://scikit-learn.org/stable/)
 * [Flask](https://flask.palletsprojects.com/en/2.2.x/)
 * [Streamlit](https://streamlit.io/)
-* [Heroku](ttps://www.heroku.com)
+* [Heroku](ttps://www.heroku.com/)
+
+<!-- ## Thanks to
+
+* [wildoctopus](https://github.com/wildoctopus) for sharing the Materials
+
+* [Mas Afif](https://github.com/afifai) for the tutorial
+
+* [Danu Purnomo](https://github.com/danupurnomo) as a Mentor -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
