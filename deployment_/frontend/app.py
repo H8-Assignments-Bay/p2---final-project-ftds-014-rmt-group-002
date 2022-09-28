@@ -29,7 +29,8 @@ dict = {'2' : {'Segmentation_name' : 'Champions',
 st.image('Image_Header.png')
 
 st.markdown("<h1 style='text-align: center; color: Black;'>Customer Segmentation Apps</h1>", unsafe_allow_html=True)
-st.markdown("<h3 style='text-align: center; color: Black;'>Elevate Sales of Wholesales Merchandise in the UK with RFM</h3>", unsafe_allow_html=True)
+st.markdown("<h5 style='text-align: center; color: Black;'>Elevate Sales of Wholesales Merchandise in the UK with RFM</h5>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center; color: grey;'></p>", unsafe_allow_html=True)
 
 # st.title("Customer Segmentation Apps")
 # st.write("Elevate Sales of Wholesales Merchandise in the UK with RFM")
@@ -88,4 +89,4 @@ else:
   st.write('Error euy')
 
 st.markdown("<p style='text-align: center; color: grey;'></p>", unsafe_allow_html=True)
-st.markdown("<p style='text-align: center; color: grey;'>APP by Adnan Rio & Handoko Pramulyo | FTDS 14 Hactive8 2022</p>", unsafe_allow_html=True)
+st.caption('APP by Adnan Rio & Handoko Pramulyo | FTDS 14 Hactive8 2022')
