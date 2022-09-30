@@ -7,22 +7,22 @@ import requests
 
 dict = {'2' : {'Segmentation_name' : 'Champions', 
                 'Segmentation_desc' : 'Bought recently, buy often, & spend the most',
-                'Strategy': 'Reward them, likely to be early adopters of a new product, they will promote your brand'},
+                'Strategy': 'Reward them, Share periodic notes with champions that highlight exclusive or unique products, and increase their spending by emailing them offers on multi-product orders. THEY WILL PROMOTE YOUR BRAND!'},
         '5' : {'Segmentation_name' : 'Potential Loyalists', 
                 'Segmentation_desc' : 'Recent customer but spending a good amount & have bought more than once',
-                'Strategy': 'Offer membership or loyalty programs, recommend other products to them'},
+                'Strategy': 'Offer membership or loyalty programs, recommend other products to them, send sneak-peak news about your product (stimulate a sense of urgency to buy a new product), and express exclusivity. Loyal customers are more likely to be active buyers when they feel special.'},
         '0' : {'Segmentation_name' : 'About to Sleep', 
                 'Segmentation_desc' : 'Below average recently, frequency & monetary values - will lose them of not reactivated',
-                'Strategy': 'Share valuable resources, recommend a popular product at discount, and reconnect with them'},
+                'Strategy': 'Share valuable resources, recommend a popular product at a discount (small amount), and gradually reconnect with them with a gift after purchase.'},
         '4' : {'Segmentation_name' : 'At Risk', 
                 'Segmentation_desc' : 'Spent big money and purchased often but havent purchased for a long time',
-                'Strategy': 'Send personalized emails to reconnect, offer discounts, and provide a helpful resource'},
+                'Strategy': 'Send personalized emails, start with a 10% discount, or free shipping, then, build up gradually to a two-for-one offer or a free gift with every purchase, & provide a helpful resource.'},
         '1' : {'Segmentation_name' : 'Hibernating', 
                 'Segmentation_desc' : 'Last purchase was long back - these are low spenders who have placed few orders',
-                'Strategy': 'Offer other relevant products and special discounts, recreate brand value'},
+                'Strategy': 'Offer other relevant products and special discounts to recreate brand value, email blasts with stories about your team or product developments might delight them enough to revisit your site, and sprinkling a discount code or two into the mix certainly helps.'},
         '3' : {'Segmentation_name' : 'Lost Customer', 
                 'Segmentation_desc' : 'Lowest recency, frequency, & monetary scores',
-                'Strategy': 'Revive interest with reach out campaign, ignore them '}}
+                'Strategy': 'Revive interest with the reach-out campaign, re-engage them with a discussion about your brand and also share your future mission, or ignore them (bringing a lost customer back is the biggest challenge your nurture campaigns can tackle).'}}
 
 # =====================================
 
